@@ -1,0 +1,18 @@
+c 7.0
+c 8 -9.00
+t 6.98
+apple 9.00
+
+
+r r r r r r
+r
+c
+t
+r 5
+c 10
+r c= 10 ccc
+circle 8.9
+r 8.9
+rec 887
+r 8.9
+t 7.9 -8.9 0 0 0 0 00
