@@ -18,6 +18,17 @@ Please note that all other invalid inputs are just ignored/skipped by the progra
 ### Program Screenshots:
 
 
+**Running the program:**
+![](image3.png)
+
+
+**Sample _files.txt_ file which contains a list of shape files to open and read:**
+![](image1.png)
+
+**Sample shape file. Please note that erranous entries are skipped by the program as the file is read:**
+![](image2.png)
+
+
 
 
 
