@@ -4,7 +4,7 @@ Calculates the area and perimeter/circumfrence of various shapes by reading data
 
 Specific files (such as "shapes1.txt" - as listed on "files.txt") are opened by the program and the area/perimeter/circumfrence are calculated. 
 
-###### Format recognized by the program is as follows:
+### Format recognized by the program is as follows:
 
 - **Rectangle:** r sidelength_1_value sidelength_2_value
 - **Square:** r sidelenght_value sidelength_value
