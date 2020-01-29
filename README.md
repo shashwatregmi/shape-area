@@ -8,7 +8,7 @@ Specific files (such as "shapes1.txt" - as listed on "files.txt") are opened by 
 
 - **Rectangle:** r sidelength_1_value sidelength_2_value
 - **Square:** r sidelenght_value sidelength_value
-- **Triangle:** t base_value height_value
+- **Triangle:** t side_length_value
 - **Circle:** c radius_value
 
 Please note that all other invalid inputs are just ignored/skipped by the program. Currently only recognizes rectangles, squares, triangles and circles, further shape functionality may be updated later.
